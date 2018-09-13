@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: #b0c0d1;
+}
+
+main>h1 {
+  color: red;
+  margin-top: 2em;
+}
+
+.operand1, .operand2 {
+  color: yellow;
+}
+
+.green-board {
+  color: whitesmoke;
+  background-color: darkolivegreen;
+  border: 0.5em solid burlywood;
+  margin: 1em;
+}
